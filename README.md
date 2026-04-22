@@ -93,7 +93,7 @@ portfolio/
 
 ## 🌐 Live Demo
 
-🔗 **Portfolio Website:** [Add your deployed link here]
+🔗 **Portfolio Website:** https://akhi-6.github.io/FUTURE_FS_01/
 
 ---
 
@@ -138,3 +138,5 @@ This project was completed as part of the **Full Stack Web Development Internshi
 ---
 
 ⭐ If you like this project, feel free to give it a star!
+
+AKHILA BODDURI
