@@ -131,9 +131,9 @@ This project was completed as part of the **Full Stack Web Development Internshi
 
 ## 📬 Contact
 
-* 📧 Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
-* 🔗 LinkedIn: https://linkedin.com/in/yourprofile
-* 💻 GitHub: https://github.com/yourusername
+* 📧 Email: bodduriakhila0906@gmail.com
+* 🔗 LinkedIn: (https://www.linkedin.com/in/akhila-bodduri/)
+* 💻 GitHub: https://github.com/akhi-06
 
 ---
 
